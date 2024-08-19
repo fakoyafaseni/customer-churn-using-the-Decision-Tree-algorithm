@@ -1,0 +1,6 @@
+﻿CLIENTNUM,Customer_Age,Gender,Dependent_count,Education_Level,Marital_Status,Income_Category,Card_Category,Months_on_book,Total_Relationship_Count,Months_Inactive_12_mon,Contacts_Count_12_mon,Credit_Limit,Total_Revolving_Bal,Avg_Open_To_Buy,Total_Amt_Chng_Q4_Q1,Total_Trans_Amt,Total_Trans_Ct,Total_Ct_Chng_Q4_Q1,Avg_Utilization_Ratio
+709919283,54,M,4,Graduate,Married,$80K - $120K,Blue,34,2,3,2,14926,2517,12409,1.996,1576,25,1.5,0.169
+718744008,59,F,1,Graduate,Single,Less than $40K,Blue,36,3,2,3,6335,1128,5207,0.397,1217,20,0.667,0.178
+767712558,59,M,1,College,Single,$60K - $80K,Blue,53,2,3,3,14979,0,14979,0.71,530,10,1,0
+712950783,48,F,4,Uneducated,Married,Less than $40K,Blue,38,3,2,3,2732,0,2732,0.76,739,16,0.455,0
+716104983,41,F,2,Graduate,Single,Less than $40K,Blue,32,6,3,2,2250,2117,133,1.162,1617,31,2.875,0.941
